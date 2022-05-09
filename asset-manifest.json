@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/pills-in-peace/static/js/main.f7ae4ebe.chunk.js",
+    "main.js.map": "/pills-in-peace/static/js/main.f7ae4ebe.chunk.js.map",
+    "runtime-main.js": "/pills-in-peace/static/js/runtime-main.dab0e43c.js",
+    "runtime-main.js.map": "/pills-in-peace/static/js/runtime-main.dab0e43c.js.map",
+    "static/js/2.c9a0ce7b.chunk.js": "/pills-in-peace/static/js/2.c9a0ce7b.chunk.js",
+    "static/js/2.c9a0ce7b.chunk.js.map": "/pills-in-peace/static/js/2.c9a0ce7b.chunk.js.map",
+    "index.html": "/pills-in-peace/index.html",
+    "static/js/2.c9a0ce7b.chunk.js.LICENSE.txt": "/pills-in-peace/static/js/2.c9a0ce7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab0e43c.js",
+    "static/js/2.c9a0ce7b.chunk.js",
+    "static/js/main.f7ae4ebe.chunk.js"
+  ]
+}
