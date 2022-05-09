@@ -88,10 +88,9 @@ main {
 }
 
 .titleCardMain {
-    display: flex;
-    justify-content: start;
+    position: relative;
+    right: 122px;
 
-    width: 80%;
 }
 
 .cardMain {
@@ -190,7 +189,7 @@ footer {
     bottom: 10px;
     left: 0;
     right: 0;
-    height: 170px;
+    height: 150px;
     display: flex;
     overflow-x: scroll;
     justify-content: start;
@@ -261,6 +260,28 @@ footer ion-icon {
         height: 300px;
         min-width: 100%;
 
+
+    }
+
+
+
+}
+
+@media (min-width: 1000px) {
+
+    main {
+
+        margin: 0% 0 0% 0;
+    }
+
+    .cardMain {
+        width: 70%;
+        height: 300px;
+    }
+
+    .titleCardMain {
+
+        right: 43.5%;
 
     }
 
