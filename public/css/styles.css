@@ -3,6 +3,7 @@
 }
 
 
+
 body {
     background-color: #1fa9ffa2;
     font-family: 'Poppins', sans-serif;
@@ -68,6 +69,7 @@ main {
     align-items: center;
 
     margin: 20% 0 20% 0;
+
 
 
 
@@ -188,7 +190,7 @@ footer {
     bottom: 10px;
     left: 0;
     right: 0;
-    height: 130px;
+    height: 170px;
     display: flex;
     overflow-x: scroll;
     justify-content: start;
@@ -249,7 +251,7 @@ footer ion-icon {
 
 
 
-@media (max-width: 660px) {
+@media (max-width: 400px) {
 
     main {
         margin: 25px 0;
