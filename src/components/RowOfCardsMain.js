@@ -4,13 +4,9 @@ export default function RowOfCardsMain() {
 
             <div className="cardMain resumoCard">
                 <div className="containerResumoCard">
-                    <p>
-                        Bom dia, veio!
-
-                        Hoje é 03/05, espero que a melhor terça-feira da sua vida!
-
-                        Você possui 6 pílulas para hoje.
-                    </p>
+                    <p> Bom dia, veio!</p>
+                    <p> Hoje é 03/05, espero que a melhor terça-feira da sua vida!</p>
+                    <p> Você possui 6 pílulas para hoje.</p>
                 </div>
 
 
